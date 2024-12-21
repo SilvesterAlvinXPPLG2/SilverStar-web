@@ -1,4 +1,14 @@
 body {
-    background-color: blueviolet;
+    background-image: linear-gradient(to right top, #8122c0, #6f3fcf, #5953db, #3e64e4, #1272eb);
+    padding: 50px;
 }
-
+.foto1 {
+    height: 250px;
+    float: right;
+}
+.foto2 {
+    height: 70px;
+}
+.foto3 {
+    height: 70px;
+}
